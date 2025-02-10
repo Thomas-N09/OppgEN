@@ -1,6 +1,6 @@
 import Menu from "./Menu.jsx";
 import Dish from "./Dish.jsx";
-import "./src/index.css";
+import "./index.css";
 // import meny from "./menydata.jsx";
 
 function App() {
